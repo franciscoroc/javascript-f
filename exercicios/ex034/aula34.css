@@ -1,0 +1,26 @@
+@charset "UTF-8";
+
+.curso {
+    font-family: 'Roboto', sans-serif;
+    width: 50%;
+    background-color: gray;
+    color: rgb(3, 255, 108);
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    border-radius: 10px;
+    border: 3px solid rgb(54, 54, 54);
+}
+
+.curso:hover {
+    border-color: red;
+    cursor: pointer;
+}
+
+.c2 {
+    background-color: brown !important;
+}
+
+.destaque{
+    background-color: red !important;
+}
